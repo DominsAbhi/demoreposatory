@@ -5,7 +5,7 @@ Author - Abhinav Barthwal
   # include <system.io>
   int (main)
   {
-  printf("Hellow World this is day 2);
+  printf("Hellow this is day 2);
   return 0:
   }
   
